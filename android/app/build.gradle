@@ -47,14 +47,14 @@ android {
     
     flavorDimensions "app"
     productFlavors {
-        dev {
+        development {
             dimension "app"
             applicationId "com.example.flavors.dev"
             versionCode 1
             versionName "1.0"
         }
  
-        qa {
+        production {
             dimension "app"
             applicationId "com.example.flavors.prod"
             versionCode 1

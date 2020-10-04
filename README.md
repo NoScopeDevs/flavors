@@ -1,6 +1,6 @@
 # flavors
 
-A new Flutter project.
+`flutter run --dart-define=myVar=true`
 
 ## Getting Started
 
